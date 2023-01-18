@@ -5,10 +5,12 @@ This project was the Winner of the MakeSPP Environmental Track Hackathon.
 
 In the simulation:
 
-. = Normal Forest
+\. = Normal Forest
 
-/ = Forest Starting to burn
-
-- = Forest burnt out
+\/ = Forest Starting to burn
 
 \# = Forest fully on fire
+
+\- = Forest burnt out
+
+
