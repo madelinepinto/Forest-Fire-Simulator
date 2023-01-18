@@ -9,6 +9,6 @@ In the simulation:
 
 / = Forest Starting to burn
 
-# = Forest fully on fire
+\# = Forest fully on fire
 
 - = Forest burnt out
